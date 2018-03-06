@@ -1,0 +1,7 @@
+<# get push origin master # >
+<# touch main.js #> <# creates a file in the directory you're in #>
+
+<# git status #>
+
+<# git pull origin master #>
+
